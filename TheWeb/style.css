@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(img/473127.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.carousel-inner{
+    width: auto;
+    height: auto;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    
+}
+footer{
+    flex: right;
+}
+.moviefooter{
+    text-align: center;
+    font-size: 50;
+    font-weight: bold;
+    padding: 5%;
+    color: aliceblue;
+}
+.footerimg{
+    padding: 4%;
+}
+#containercards{
+    margin-top: 8%;
+    width: auto;
+    height: auto;
+    align-items: center;
+}
+
+.mpm{
+    text-align: center;
+    font-weight: bolder;
+    color: aliceblue;
+    margin-top: 10%;
+    margin-right: 40%;
+    margin-left: auto;
+}
+.card-img-top{
+    margin: auto;
+    size: 100px;
+    
+}
